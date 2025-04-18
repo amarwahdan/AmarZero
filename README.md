@@ -1,7 +1,11 @@
 # AmarZero 🧠🎯  
-**A Vision-Based Reinforcement Learning Agent for Real-Time Object Tracking & Planning**  
+**A Vision-Based Reinforcement Learning Agent for Real-Time Object Tracking and Planning**
 
-Welcome to the **AmarZero** repository! This project implements a hybrid model-based reinforcement learning system designed for real-time object tracking tasks, in both single-object and multi-object scenarios.
+Welcome to the AmarZero repository! This project implements a hybrid model-based reinforcement learning system designed for real-time object tracking tasks, whether in single-object or multi-object scenarios.
+
+This repository contains the full implementation and research paper of **AmarZero**, a hybrid model-based reinforcement learning system for object tracking in both single and multi-object scenarios.
+
+---
 
 ## 📄 Research Paper  
 🔗 [Read the research paper on Zenodo](https://zenodo.org/records/15208167)  
@@ -11,16 +15,16 @@ The paper is also included as `AmarZero-paper.pdf` in this repository for refere
 
 ## 🚀 Key Features  
 - ✅ **No need for external object detectors**  
-- 🔍 Utilizes **Vision Transformers (ViT)** for advanced perception  
-- 🔄 **Kalman Filtering** for robust tracking, even under occlusion  
-- 🌲 **Monte Carlo Tree Search (MCTS)** for enhanced planning  
+- 🔍 Uses **Vision Transformers (ViT)** for advanced perception  
+- 🔄 **Kalman Filter** for robust tracking even under occlusions  
+- 🌲 **Monte Carlo Tree Search (MCTS)** for improved planning  
 - 🧠 **World Models** for more accurate environment prediction  
 - 🧪 Evaluated on the **MOT17 dataset**
 
 ---
 
 ## 📁 Project Structure  
-This repository is structured as follows:
+The repository is organized as follows:
 
 AmarZero/ │ ├── single_task/ # Directory for single-object tracking │ └── amarzero_single.py # Implementation for single-object tracking │ ├── multi_task/ # Directory for multi-object tracking │ └── amarzero_multi.py # Implementation for multi-object tracking │ ├── AmarZero-paper.pdf # Published research paper ├── README.md # Project overview and details
 
