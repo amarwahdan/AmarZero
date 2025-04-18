@@ -41,7 +41,3 @@ The tracking scripts automatically generate CSV reports that contain predicted a
 🌐 ORCID: [https://orcid.org/0009-0005-5278-5123](https://orcid.org/0009-0005-5278-5123)  
 📊 Kaggle: [@amarahmedhamed](https://www.kaggle.com/amarahmedhamed)
 
----
-
-Feel free to open an issue or contribute to the project! 🚀
-
