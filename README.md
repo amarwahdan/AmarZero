@@ -24,14 +24,6 @@ The paper is also included as `AmarZero-paper.pdf` in this repository for refere
 
 ---
 
-## 📁 Project Structure  
-The repository is organized as follows:
-
-AmarZero/ │ ├── single_task/ # Directory for single-object tracking │ └── amarzero_single.py # Implementation for single-object tracking │ ├── multi_task/ # Directory for multi-object tracking │ └── amarzero_multi.py # Implementation for multi-object tracking │ ├── AmarZero-paper.pdf # Published research paper ├── README.md # Project overview and details
-
-
----
-
 ## 📊 Evaluation  
 The tracking scripts automatically generate CSV reports that contain predicted and ground-truth positions along with tracking error. The reports generated are:
 
@@ -43,6 +35,7 @@ The tracking scripts automatically generate CSV reports that contain predicted a
 ## 📫 Contact  
 **Author:** Amar Ahmed Hamed  
 📧 Email: [aammaarrah10@gmail.com](mailto:aammaarrah10@gmail.com)  
-🌐 ORCID: [https://orcid.org/0009-0005-5278-5123](https://orcid.org/0009-0005-5278-5123)  
-📊 Kaggle: [@amarahmedhamed](https://www.kaggle.com/amarahmedhamed)
+🌐 ORCID: [ORCID](https://orcid.org/0009-0005-5278-5123)
+🌐 Linkedin: [Linkedin](www.linkedin.com/in/amar-ahmed-25b676302)
+📊 Kaggle: [Kaggle](https://www.kaggle.com/amarahmedhamed)
 
