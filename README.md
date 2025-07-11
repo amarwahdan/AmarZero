@@ -9,6 +9,7 @@ This repository contains the full implementation and research paper of **AmarZer
 
 ## 📄 Research Paper  
 🔗 [Read the research paper on Zenodo](https://zenodo.org/records/15208167)  
+🔗 [Read the research paper on ResearchGate](https://www.researchgate.net/publication/393421430_AmarZero_Vision-Based_RL_Agent_for_Object_Tracking_Planning)  
 The paper is also included as `AmarZero-paper.pdf` in this repository for reference.
 
 ---
